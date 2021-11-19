@@ -1,7 +1,7 @@
 ###Header
 
 """
-TP1_Ex2_Tests
+Test des fonctions de TP1_Ex2
 Thomas Gabriel
 19/11/2021
 """
@@ -27,8 +27,8 @@ print(ex2.nombre_jour(2, True))
 
 ##Tests Question 3
 
-print(ex2.est_valide("bonjour"))
-print(ex2.est_valide("pas_valide"))
-print(ex2.est_valide("45/03/1965"))
-print(ex2.est_valide("11/11/1918"))
-print(ex2.est_valide("29/02/2008"))
+#print(ex2.est_valide("bonjour"))
+#print(ex2.est_valide("pas_valide"))
+#print(ex2.est_valide("45/03/1965"))
+#print(ex2.est_valide("11/11/1918"))
+#print(ex2.est_valide("29/02/2008"))
